@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  nginx-helmchart:
+  - apiVersion: v2
+    created: "2022-11-14T14:46:38.800035-05:00"
+    description: Create namespace
+    digest: b6ba695db7c80a74a50b8c099b6b00da6673ed2b93cf19622b39763eb6b073f4
+    name: nginx-helmchart
+    type: application
+    urls:
+    - https://philippevv.github.io/nginx-helmchart/nginx-helmchart-0.0.1.tgz
+    version: 0.0.1
+generated: "2022-11-14T14:46:38.799745-05:00"
